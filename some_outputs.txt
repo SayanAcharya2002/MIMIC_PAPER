@@ -1,0 +1,1067 @@
+####  INITIALISATION  ####
+########################   MODEL NUMBER :  0
+2024-01-12 19:36:42.083027
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3139.78636940849
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 30.939706 
+
+   Mean value of AI policy by WIS : 32.228350 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -0.310840 
+
+   Mean value of AI policy by WIS : 13.050069 
+
+########################   MODEL NUMBER :  1
+2024-01-12 19:37:32.554313
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3786.078764392324
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : -7.232138 
+
+   Mean value of AI policy by WIS : 37.022142 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -31.588697 
+
+   Mean value of AI policy by WIS : -10.257344 
+
+########################   MODEL NUMBER :  2
+2024-01-12 19:38:21.058276
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3169.1110839833736
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 11.580227 
+
+   Mean value of AI policy by WIS : 22.312099 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 41.738415 
+
+   Mean value of AI policy by WIS : 20.393899 
+
+########################   MODEL NUMBER :  3
+2024-01-12 19:39:18.355073
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3523.0405959812206
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 0.159646 
+
+   Mean value of AI policy by WIS : 36.080548 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 12.349266 
+
+   Mean value of AI policy by WIS : 7.480050 
+
+########################   MODEL NUMBER :  4
+2024-01-12 19:40:12.724889
+####  CLUSTERING  ####
+32 False False
+The best inertia =  4095.6699700228687
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 3.767443 
+
+   Mean value of AI policy by WIS : 39.006012 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 20.737759 
+
+   Mean value of AI policy by WIS : 45.412968 
+
+####   GOOD MODEL FOUND - SAVING IT   ####
+Best policy was replaced => 95% LB is  0.4172644611387289
+########################   MODEL NUMBER :  5
+2024-01-12 19:41:03.324934
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3759.52025573826
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : -21.871832 
+
+   Mean value of AI policy by WIS : 13.198206 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 41.970299 
+
+   Mean value of AI policy by WIS : 39.674164 
+
+####   GOOD MODEL FOUND - SAVING IT   ####
+Best policy was replaced => 95% LB is  14.558249756483189
+########################   MODEL NUMBER :  6
+2024-01-12 19:42:02.682795
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3694.8887799512845
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 6.686975 
+
+   Mean value of AI policy by WIS : 18.627677 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 19.469048 
+
+   Mean value of AI policy by WIS : 35.669425 
+
+####   GOOD MODEL FOUND - SAVING IT   ####
+########################   MODEL NUMBER :  7
+2024-01-12 19:42:56.750804
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3023.8894857872006
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : -8.323210 
+
+   Mean value of AI policy by WIS : 26.754458 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 29.050617 
+
+   Mean value of AI policy by WIS : 18.210175 
+
+########################   MODEL NUMBER :  8
+2024-01-12 19:43:46.305749
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3080.1879434001494
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 18.342849 
+
+   Mean value of AI policy by WIS : 16.220738 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -17.499078 
+
+   Mean value of AI policy by WIS : 47.574383 
+
+####   GOOD MODEL FOUND - SAVING IT   ####
+Best policy was replaced => 95% LB is  19.05160977255602
+########################   MODEL NUMBER :  9
+2024-01-12 19:44:46.966626
+####  CLUSTERING  ####
+32 False False
+The best inertia =  4088.196284948347
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 24.187227 
+
+   Mean value of AI policy by WIS : 50.546715 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -24.144750 
+
+   Mean value of AI policy by WIS : 1.356274 
+
+########################   MODEL NUMBER :  10
+2024-01-12 19:45:33.366740
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3278.692983830932
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 9.504325 
+
+   Mean value of AI policy by WIS : 32.130395 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -8.402362 
+
+   Mean value of AI policy by WIS : -27.255873 
+
+########################   MODEL NUMBER :  11
+2024-01-12 19:46:19.956339
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3336.597083811878
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 20.349334 
+
+   Mean value of AI policy by WIS : 25.476848 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -12.450537 
+
+   Mean value of AI policy by WIS : -12.421884 
+
+########################   MODEL NUMBER :  12
+2024-01-12 19:47:07.264590
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3182.016069213687
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 17.002745 
+
+   Mean value of AI policy by WIS : 28.079929 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -10.799218 
+
+   Mean value of AI policy by WIS : 6.579098 
+
+########################   MODEL NUMBER :  13
+2024-01-12 19:47:57.140703
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3751.0558969785898
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 8.300090 
+
+   Mean value of AI policy by WIS : 24.399841 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -30.103114 
+
+   Mean value of AI policy by WIS : 0.777364 
+
+########################   MODEL NUMBER :  14
+2024-01-12 19:48:43.974198
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3836.4366473907144
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : -0.544654 
+
+   Mean value of AI policy by WIS : 33.288482 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -36.008343 
+
+   Mean value of AI policy by WIS : -17.975798 
+
+########################   MODEL NUMBER :  15
+2024-01-12 19:49:31.447683
+####  CLUSTERING  ####
+32 False False
+The best inertia =  2587.194505620666
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : -30.369978 
+
+   Mean value of AI policy by WIS : 26.492889 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 15.491967 
+
+   Mean value of AI policy by WIS : 35.197132 
+
+####   GOOD MODEL FOUND - SAVING IT   ####
+########################   MODEL NUMBER :  16
+2024-01-12 19:50:24.219105
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3325.7811166886627
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : -4.317609 
+
+   Mean value of AI policy by WIS : 22.017773 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 42.231769 
+
+   Mean value of AI policy by WIS : 41.090834 
+
+####   GOOD MODEL FOUND - SAVING IT   ####
+########################   MODEL NUMBER :  17
+2024-01-12 19:51:18.327429
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3331.194515712432
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 18.482118 
+
+   Mean value of AI policy by WIS : 31.744660 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -53.543611 
+
+   Mean value of AI policy by WIS : -33.215574 
+
+########################   MODEL NUMBER :  18
+2024-01-12 19:52:06.424636
+####  CLUSTERING  ####
+32 False False
+The best inertia =  2899.2467637605855
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 0.767369 
+
+   Mean value of AI policy by WIS : 16.049792 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -19.075837 
+
+   Mean value of AI policy by WIS : 18.841738 
+
+########################   MODEL NUMBER :  19
+2024-01-12 19:52:54.652376
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3049.9899308747476
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 29.833875 
+
+   Mean value of AI policy by WIS : 27.117965 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -36.616517 
+
+   Mean value of AI policy by WIS : -4.437169 
+
+########################   MODEL NUMBER :  20
+2024-01-12 19:53:44.692164
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3982.3037765958375
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 21.570323 
+
+   Mean value of AI policy by WIS : 26.553077 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -39.040497 
+
+   Mean value of AI policy by WIS : -19.348184 
+
+########################   MODEL NUMBER :  21
+2024-01-12 19:54:43.088474
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3768.467300243541
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : -2.066539 
+
+   Mean value of AI policy by WIS : 26.578819 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -19.563452 
+
+   Mean value of AI policy by WIS : 20.222433 
+
+########################   MODEL NUMBER :  22
+2024-01-12 19:55:30.536754
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3495.291275325427
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 29.676550 
+
+   Mean value of AI policy by WIS : 39.260369 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -12.855796 
+
+   Mean value of AI policy by WIS : 18.232324 
+
+########################   MODEL NUMBER :  23
+2024-01-12 19:56:18.461724
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3604.466728211927
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 23.680227 
+
+   Mean value of AI policy by WIS : 30.432692 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -4.753778 
+
+   Mean value of AI policy by WIS : -7.344297 
+
+########################   MODEL NUMBER :  24
+2024-01-12 19:57:03.007645
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3662.4431585525026
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 9.182540 
+
+   Mean value of AI policy by WIS : 36.851438 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -47.930765 
+
+   Mean value of AI policy by WIS : -33.776047 
+
+########################   MODEL NUMBER :  25
+2024-01-12 19:57:53.641017
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3768.791513621911
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 12.956317 
+
+   Mean value of AI policy by WIS : 18.365416 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -23.968291 
+
+   Mean value of AI policy by WIS : -0.184164 
+
+########################   MODEL NUMBER :  26
+2024-01-12 19:58:42.589381
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3220.36221139921
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 22.371002 
+
+   Mean value of AI policy by WIS : 35.235605 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -10.573708 
+
+   Mean value of AI policy by WIS : 8.743550 
+
+########################   MODEL NUMBER :  27
+2024-01-12 19:59:26.605925
+####  CLUSTERING  ####
+32 False False
+The best inertia =  4067.201932681174
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 11.615161 
+
+   Mean value of AI policy by WIS : 45.915772 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 7.118196 
+
+   Mean value of AI policy by WIS : 3.235821 
+
+########################   MODEL NUMBER :  28
+2024-01-12 20:00:08.238048
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3813.3492523475943
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : -3.760332 
+
+   Mean value of AI policy by WIS : 25.063995 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 76.915469 
+
+   Mean value of AI policy by WIS : 24.212989 
+
+########################   MODEL NUMBER :  29
+2024-01-12 20:00:50.527045
+####  CLUSTERING  ####
+32 False False
+The best inertia =  2994.9491576511064
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 27.478230 
+
+   Mean value of AI policy by WIS : 17.255132 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 33.381519 
+
+   Mean value of AI policy by WIS : 42.469800 
+
+########################   MODEL NUMBER :  30
+2024-01-12 20:01:35.964252
+####  CLUSTERING  ####
+32 False False
+The best inertia =  2535.1271009983866
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 5.219202 
+
+   Mean value of AI policy by WIS : 22.836042 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 14.882066 
+
+   Mean value of AI policy by WIS : 21.197809 
+
+########################   MODEL NUMBER :  31
+2024-01-12 20:02:24.726268
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3268.329856125541
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 3.929288 
+
+   Mean value of AI policy by WIS : 19.647627 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 60.799750 
+
+   Mean value of AI policy by WIS : 65.092197 
+
+########################## eICU TEST SET #############################
+####   GOOD MODEL FOUND - SAVING IT   ####
+Best policy was replaced => 95% LB is  43.9469815886529
+########################   MODEL NUMBER :  32
+2024-01-12 20:03:12.772339
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3787.22990990795
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : -3.029963 
+
+   Mean value of AI policy by WIS : 31.671683 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 29.814818 
+
+   Mean value of AI policy by WIS : 10.440712 
+
+########################   MODEL NUMBER :  33
+2024-01-12 20:04:00.598988
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3294.1880934605056
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 21.372722 
+
+   Mean value of AI policy by WIS : 18.625875 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 26.396184 
+
+   Mean value of AI policy by WIS : 29.216731 
+
+########################   MODEL NUMBER :  34
+2024-01-12 20:04:43.308542
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3599.8546828962244
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 26.571558 
+
+   Mean value of AI policy by WIS : 35.685409 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 23.362186 
+
+   Mean value of AI policy by WIS : -1.457869 
+
+########################   MODEL NUMBER :  35
+2024-01-12 20:05:29.370019
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3373.175712476109
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 17.140125 
+
+   Mean value of AI policy by WIS : 36.865978 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -39.349198 
+
+   Mean value of AI policy by WIS : -44.013379 
+
+########################   MODEL NUMBER :  36
+2024-01-12 20:06:19.083337
+####  CLUSTERING  ####
+32 False False
+The best inertia =  4293.20682435339
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 22.694712 
+
+   Mean value of AI policy by WIS : 33.984920 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -27.881423 
+
+   Mean value of AI policy by WIS : -0.191274 
+
+########################   MODEL NUMBER :  37
+2024-01-12 20:07:02.220052
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3518.8628713986636
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 12.559162 
+
+   Mean value of AI policy by WIS : 26.736986 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 30.171401 
+
+   Mean value of AI policy by WIS : 27.648311 
+
+####   GOOD MODEL FOUND - SAVING IT   ####
+########################   MODEL NUMBER :  38
+2024-01-12 20:07:51.300362
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3583.9559487312567
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 1.481435 
+
+   Mean value of AI policy by WIS : 21.548777 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 13.564257 
+
+   Mean value of AI policy by WIS : 27.780585 
+
+####   GOOD MODEL FOUND - SAVING IT   ####
+########################   MODEL NUMBER :  39
+2024-01-12 20:08:41.873367
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3967.735073682778
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 5.513189 
+
+   Mean value of AI policy by WIS : 20.680869 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 31.336785 
+
+   Mean value of AI policy by WIS : 4.167461 
+
+########################   MODEL NUMBER :  40
+2024-01-12 20:09:25.865428
+####  CLUSTERING  ####
+32 False False
+The best inertia =  2739.2257730070505
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 3.436273 
+
+   Mean value of AI policy by WIS : 23.682269 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 28.765604 
+
+   Mean value of AI policy by WIS : 23.124019 
+
+########################   MODEL NUMBER :  41
+2024-01-12 20:10:14.651494
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3375.066613821933
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 23.975945 
+
+   Mean value of AI policy by WIS : 26.953758 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 29.919263 
+
+   Mean value of AI policy by WIS : 27.159523 
+
+########################   MODEL NUMBER :  42
+2024-01-12 20:10:59.906598
+####  CLUSTERING  ####
+32 False False
+The best inertia =  2916.9024723308867
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 0.527709 
+
+   Mean value of AI policy by WIS : 21.865965 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -18.135480 
+
+   Mean value of AI policy by WIS : 22.659812 
+
+########################   MODEL NUMBER :  43
+2024-01-12 20:11:49.151180
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3864.4087696926595
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : -14.151275 
+
+   Mean value of AI policy by WIS : 30.486727 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -9.968440 
+
+   Mean value of AI policy by WIS : -18.672707 
+
+########################   MODEL NUMBER :  44
+2024-01-12 20:12:37.125087
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3137.891816840659
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 22.823944 
+
+   Mean value of AI policy by WIS : 43.790839 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 12.197683 
+
+   Mean value of AI policy by WIS : -34.417364 
+
+########################   MODEL NUMBER :  45
+2024-01-12 20:13:26.401953
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3494.784928421979
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 9.353341 
+
+   Mean value of AI policy by WIS : 34.592106 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -28.065828 
+
+   Mean value of AI policy by WIS : -37.814892 
+
+########################   MODEL NUMBER :  46
+2024-01-12 20:14:15.803723
+####  CLUSTERING  ####
+32 False False
+The best inertia =  2634.741990490486
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 8.770292 
+
+   Mean value of AI policy by WIS : 32.258590 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -37.589284 
+
+   Mean value of AI policy by WIS : -14.501707 
+
+########################   MODEL NUMBER :  47
+2024-01-12 20:15:07.673721
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3270.0965195061017
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 29.324140 
+
+   Mean value of AI policy by WIS : 26.861892 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : 23.750464 
+
+   Mean value of AI policy by WIS : 27.333126 
+
+########################   MODEL NUMBER :  48
+2024-01-12 20:15:51.532766
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3835.499808506873
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 7.541296 
+
+   Mean value of AI policy by WIS : 15.730275 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -1.470797 
+
+   Mean value of AI policy by WIS : 42.049090 
+
+####   GOOD MODEL FOUND - SAVING IT   ####
+########################   MODEL NUMBER :  49
+2024-01-12 20:16:35.542872
+####  CLUSTERING  ####
+32 False False
+The best inertia =  3849.906583564363
+####  CREATE ACTIONS  ####
+####  CREATE QLDATA3  ####
+####  CREATE TRANSITION MATRIX T(S'',S,A) ####
+####  CREATE TRANSITION MATRIX T(S,S'',A)  ####
+####  CREATE REWARD MATRIX  R(S,A) ####
+####  POLICY ITERATION   ####
+####  OFF-POLICY EVALUATION - MIMIC TRAIN SET ####
+   Mean value of physicians policy by TD Learning : 26.495630 
+
+   Mean value of AI policy by WIS : 24.206401 
+
+####  OFF-POLICY EVALUATION - MIMIC TEST SET ####
+   Mean value of physicians policy by TD Learning : -40.391337 
+
+   Mean value of AI policy by WIS : 51.523447 
+
+####   GOOD MODEL FOUND - SAVING IT   ####
